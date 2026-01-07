@@ -1,0 +1,5 @@
+{
+  "name": "色彩編碼搜尋神器 AI版",
+  "description": "一個結合 AI 靈感的色彩搜尋與收藏工具。支援顏色名稱、Hex 代碼搜尋，並能透過 Gemini AI 根據情境生成調色盤，資料完全儲存在本機 localStorage。",
+  "requestFramePermissions": []
+}
